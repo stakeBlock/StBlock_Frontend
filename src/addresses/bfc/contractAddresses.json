@@ -1,0 +1,10 @@
+{
+  "candidate": "0x45a96aca1cd759306b05b05b40b082254e77699b",
+  "bfcStakingContractAddress": "0x0000000000000000000000000000000000000400",
+
+  "stBFCContractAddress": "0x8CEc1c99c41d5e3a39445c187C3C48d2a20EF934",
+  "blkContractAddress": "0xb5672Dc8BBf454a75940aC4dA5240E98503d3636",
+  "bfcLiquidStakingContractAddress": "0xa19CD2A10b20Da5b381E6e7DEBEE9811F7F247F9",
+  "stakeStBfcContractAddress": "0x33F023b1C25521Bd4E4A331707Be6c7Ab5BF5a62",
+  "bfcSwapPoolContractAddress": "0x1fbec3dc8bB5662d75EBa35CB386dAe0741CA66B"
+}
